@@ -19,7 +19,7 @@ Megumi is a bum. #theynotlikeus #stayonthatside
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
   <li>I'm a morning owl 🌙</li>
-  <li>I'm obsessed with oppais🌐</li>
+ 
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
