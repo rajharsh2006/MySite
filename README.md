@@ -13,7 +13,7 @@ Megumi is a bum. #theynotlikeus #stayonthatside
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
  
   <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/abhijiiitpatil" style="color: #2980b9;">@poopkuna</a></li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/abhijit-23blaze" style="color: #2980b9;">jogoat>
+  <li><strong>GitHub</strong>: <a href="https://github.com/abhijit-23blaze" style="color: #2980b9;">jogoa>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
